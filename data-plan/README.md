@@ -1,19 +1,11 @@
 # Data Plan
+[cite_start]This folder defines what data is needed for the anomaly detection model, how it is collected, and how it is structured[cite: 139].
 
-Purpose
-- Define the data required for the project, describe collection and cleaning methods, storage, and provide a formal data dictionary.
+## Data Description
+* [cite_start]**Data Sources:** [List sources, e.g., SQL databases, APIs, or CSV files][cite: 139].
+* [cite_start]**Collection Method:** [Explain how the data will be gathered][cite: 139].
+* [cite_start]**Cleaning & Validation:** [Outline expectations for data cleaning/validation][cite: 140].
 
-Contents (suggested files)
-- data-dictionary.md — canonical field definitions and schema
-- data-sources.md — list of datasets, licenses, links, provenance
-- ingestion/ — scripts for data retrieval and ingestion
-- cleaning/ — cleaning scripts and notebooks (with reproducible steps)
-- sample-data/ — small, sanitized sample dataset for reproducibility
-
-Privacy, security, and compliance
-- Describe any privacy concerns, IRB/ethics approvals needed, and how data access will be controlled.
-
-Reproducibility
-- All ingestion and cleaning steps should be scriptable; prefer saved scripts/notebooks, a requirements.txt or environment.yml, and a data provenance log.
-
----
+## [cite_start]Data Dictionary [cite: 140, 147]
+The data dictionary defining structures and naming conventions can be found here:
+* [Data Dictionary](./data-dictionary.md)
