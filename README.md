@@ -9,7 +9,7 @@ This repository contains the capstone project for the Master of Applied Data Sci
 | Member | Primary Role | Technical Ownership |
 | :--- | :--- | :--- |
 | [Name] | Research Lead | Literature Review and Background |
-| [Name] | Stakeholder Communicator | Problem Statement and Final Composition |
+| [Nakisha Boulware Watts] | Stakeholder Communicator | Problem Statement and Final Composition |
 | [Name] | QA Lead | Data Visualization and Validation |
 | [Zachary Moran] | Scrum Lead | Project Plan and Repository Management |
 

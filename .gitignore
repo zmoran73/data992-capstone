@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Personal folders
+private/
+notes/
+scratch/
+drafts/
+xPersonal/
+my_repo_only/
+
+# Microsoft Office files
+*.docx
+*.xlsx
+*.pptx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.sav
+*.dta
+*.rds
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
